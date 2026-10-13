@@ -1,0 +1,3 @@
+[submodule ".devcontainer"]
+	path = .devcontainer
+	url = git@github.com:sfg-autonomous-systems/sfg_agent_devcontainer.git

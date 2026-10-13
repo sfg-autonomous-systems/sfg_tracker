@@ -1,0 +1,3 @@
+FROM sfg-agent-devcontainer AS sfg-tracker
+
+# Your dockerfile content goes here...
