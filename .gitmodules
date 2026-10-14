@@ -1,3 +1,6 @@
 [submodule ".devcontainer"]
 	path = .devcontainer
 	url = ../sfg_agent_devcontainer.git
+[submodule "colcon_ws/src/sfg_vicon_bridge"]
+	path = colcon_ws/src/sfg_vicon_bridge
+	url = git@github.com:sfg-autonomous-systems/sfg_vicon_bridge.git
