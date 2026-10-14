@@ -4,3 +4,6 @@
 [submodule "colcon_ws/src/sfg_vicon_bridge"]
 	path = colcon_ws/src/sfg_vicon_bridge
 	url = git@github.com:sfg-autonomous-systems/sfg_vicon_bridge.git
+[submodule "colcon_ws/src/sfg_agent_common"]
+	path = colcon_ws/src/sfg_agent_common
+	url = git@github.com:sfg-autonomous-systems/sfg_agent_common.git
