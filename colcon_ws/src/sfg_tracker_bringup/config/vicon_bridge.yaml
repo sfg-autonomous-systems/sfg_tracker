@@ -3,4 +3,4 @@
     object_to_frame_id_mapping:
       sfg_go2_01:
         marker_frame_id: sfg_go2_01/tracker_head_frame
-        base_frame_id: sfg_go2_01/base_link
+        base_link_frame_id: sfg_go2_01/base_link
